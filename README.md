@@ -1,2 +1,3 @@
-# Statistic-Learning-
-Statistic Learning 统计学习方法
+# Machine-Learning-Sources, 机器学习资料书籍
+### Statistic Learning 统计学习方法
+### Bishop - Pattern Recognition And Machine Learning - Springer  2006
